@@ -183,6 +183,8 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+" Highlight unwanted whitespace
+set listchars=tab:>.,trail:.,extends:#,nbsp:.
 
 """"""""""""""""""""""""""""""
 " => Visual mode related
